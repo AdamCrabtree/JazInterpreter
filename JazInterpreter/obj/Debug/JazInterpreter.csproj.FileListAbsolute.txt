@@ -1,0 +1,6 @@
+C:\Users\acrab\Desktop\JazInterpreter\JazInterpreter\bin\Debug\JazInterpreter.exe.config
+C:\Users\acrab\Desktop\JazInterpreter\JazInterpreter\bin\Debug\JazInterpreter.exe
+C:\Users\acrab\Desktop\JazInterpreter\JazInterpreter\bin\Debug\JazInterpreter.pdb
+C:\Users\acrab\Desktop\JazInterpreter\JazInterpreter\obj\Debug\JazInterpreter.csprojResolveAssemblyReference.cache
+C:\Users\acrab\Desktop\JazInterpreter\JazInterpreter\obj\Debug\JazInterpreter.exe
+C:\Users\acrab\Desktop\JazInterpreter\JazInterpreter\obj\Debug\JazInterpreter.pdb
